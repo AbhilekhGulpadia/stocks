@@ -1,0 +1,84 @@
+# =========================
+# General
+# =========================
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.bak
+*.pyc
+*.pack
+__pycache__/
+.env
+.env.*
+structure.txt
+start.sh
+
+# =========================
+# macOS / System files
+# =========================
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Python backend
+# =========================
+# Local virtual environments
+venv/
+backend-python/venv/
+# Python cache / build artifacts
+backend-python/__pycache__/
+backend-python/**/*.pyc
+backend-python/**/*.pyo
+backend-python/**/*.pyd
+backend-python/.pytest_cache/
+backend-python/.mypy_cache/
+backend-python/.coverage
+backend-python/htmlcov/
+backend-python/.tox/
+backend-python/.venv/
+backend-python/.idea/
+backend-python/.vscode/
+
+# =========================
+# Node / React frontend
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.cache/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.eslintcache
+frontend/package-lock.json
+
+# =========================
+# Scripts / Data / Logs
+# =========================
+scripts/__pycache__/
+backend-python/data/ingest_logs/
+backend-python/data/ohlcv/
+*.sqlite3
+*.db
+*.csv
+*.json
+!backend-python/data/universe_sample.json   # keep sample json
+!backend-python/data/nifty500_formatted.json
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.iml
+*.code-workspace
+
+# =========================
+# Docker / Build
+# =========================
+*.pid
+*.pid.lock
+docker-compose.override.yml

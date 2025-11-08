@@ -1,0 +1,7 @@
+Flask==2.2.5
+
+# For ingest script
+pandas
+yfinance
+tqdm
+Flask-Cors

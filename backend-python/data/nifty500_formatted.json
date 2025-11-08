@@ -1,0 +1,3881 @@
+[
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INFY.NS",
+    "name": "Infosys Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HCLTECH.NS",
+    "name": "HCL Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WIPRO.NS",
+    "name": "Wipro Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TECHM.NS",
+    "name": "Tech Mahindra",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LTIM.NS",
+    "name": "LTIMindtree Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NAUKRI.NS",
+    "name": "Info Edge (Naukri.com)",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NEWGEN.NS",
+    "name": "Newgen Software Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TECHNOE.NS",
+    "name": "Techno Electric & Engineering",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PERSISTENT.NS",
+    "name": "Persistent Systems",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MPHASIS.NS",
+    "name": "Mphasis Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CYIENT.NS",
+    "name": "Cyient Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DIXON.NS",
+    "name": "Dixon Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NETWEB.NS",
+    "name": "Netweb Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KFINTECH.NS",
+    "name": "KFin Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CAMS.NS",
+    "name": "Computer Age Management Services",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ZENSAR.NS",
+    "name": "Zensar Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SONATSOFTW.NS",
+    "name": "Sonata Software",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COFORGE.NS",
+    "name": "Coforge Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INTELLECT.NS",
+    "name": "Intellect Design Arena",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KPITTECH.NS",
+    "name": "KPIT Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RSSOFTWARE.NS",
+    "name": "R Systems International",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SAKSOFT.NS",
+    "name": "Saksoft Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAMCOIND.NS",
+    "name": "Ramco Industries",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ROUTE.NS",
+    "name": "Route Mobile",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HAPPSTMNDS.NS",
+    "name": "Happiest Minds Technologies",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ZOMATO.NS",
+    "name": "Zomato Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PAYTM.NS",
+    "name": "One97 Communications (Paytm)",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "OFSS.NS",
+    "name": "Oracle Financial Services Software",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MINDTREE.NS",
+    "name": "Mindtree Limited",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "name": "HDFC Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "name": "ICICI Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SBIN.NS",
+    "name": "State Bank of India",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KOTAKBANK.NS",
+    "name": "Kotak Mahindra Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "name": "Axis Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INDUSINDBK.NS",
+    "name": "IndusInd Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FEDERALBNK.NS",
+    "name": "Federal Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BANDHANBNK.NS",
+    "name": "Bandhan Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IDFCFIRSTB.NS",
+    "name": "IDFC First Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PNB.NS",
+    "name": "Punjab National Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BANKBARODA.NS",
+    "name": "Bank of Baroda",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UNIONBANK.NS",
+    "name": "Union Bank of India",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CANBK.NS",
+    "name": "Canara Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RBLBANK.NS",
+    "name": "RBL Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "YESBANK.NS",
+    "name": "Yes Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AUBANK.NS",
+    "name": "AU Small Finance Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EQUITAS.NS",
+    "name": "Equitas Small Finance Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ESAFSFB.NS",
+    "name": "ESAF Small Finance Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UJJIVANSFB.NS",
+    "name": "Ujjivan Small Finance Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SURYODAY.NS",
+    "name": "Suryoday Small Finance Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SOUTHBANK.NS",
+    "name": "South Indian Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KARURBANK.NS",
+    "name": "Karur Vysya Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CITYUNION.NS",
+    "name": "City Union Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DCBBANK.NS",
+    "name": "DCB Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TMBBANK.NS",
+    "name": "TMB Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CSBANK.NS",
+    "name": "Catholic Syrian Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JKBANK.NS",
+    "name": "Jammu & Kashmir Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DHANBANK.NS",
+    "name": "Dhanlaxmi Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NKBANK.NS",
+    "name": "Nainital Bank",
+    "exchange": "NSE",
+    "sector": "Banking",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BAJFINANCE.NS",
+    "name": "Bajaj Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BAJAJFINSV.NS",
+    "name": "Bajaj Finserv",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MUTHOOTFIN.NS",
+    "name": "Muthoot Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MANAPPURAM.NS",
+    "name": "Manappuram Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BAJAJHFL.NS",
+    "name": "Bajaj Housing Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CREDITACC.NS",
+    "name": "Credit Access Grameen",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APTUS.NS",
+    "name": "Aptus Value Housing Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CANFINHOME.NS",
+    "name": "Can Fin Homes",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HOMEFIRST.NS",
+    "name": "Home First Finance Company",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUNDARMFIN.NS",
+    "name": "Sundaram Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SBFC.NS",
+    "name": "SBFC Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FIVESTAR.NS",
+    "name": "Five Star Business Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CHOLAFIN.NS",
+    "name": "Cholamandalam Investment and Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MMFIN.NS",
+    "name": "Mahindra & Mahindra Financial Services",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LICHSGFIN.NS",
+    "name": "LIC Housing Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PNBHOUSING.NS",
+    "name": "PNB Housing Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IIFL.NS",
+    "name": "India Infoline Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SHRIRAMFIN.NS",
+    "name": "Shriram Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SRTRANSFIN.NS",
+    "name": "Shriram Transport Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PEL.NS",
+    "name": "Piramal Enterprises",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HDFCAMC.NS",
+    "name": "HDFC Asset Management",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CRISIL.NS",
+    "name": "CRISIL Limited",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AAVAS.NS",
+    "name": "Aavas Financiers",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UGROCAP.NS",
+    "name": "Ugro Capital",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CAPFIRST.NS",
+    "name": "Capital First",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "REPCO.NS",
+    "name": "Repco Home Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INDOSTAR.NS",
+    "name": "IndoStar Capital Finance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GRINFRA.NS",
+    "name": "G R Infraprojects",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ARSS.NS",
+    "name": "ARSS Infrastructure Projects",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PAISALO.NS",
+    "name": "Paisalo Digital",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAHSCOOTER.NS",
+    "name": "Mahindra Logistics",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CAPLIPOINT.NS",
+    "name": "Caplin Point Laboratories",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HDFC.NS",
+    "name": "Housing Development Finance Corporation",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ICICIGI.NS",
+    "name": "ICICI Lombard General Insurance",
+    "exchange": "NSE",
+    "sector": "NBFC",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HDFCLIFE.NS",
+    "name": "HDFC Life Insurance",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LICI.NS",
+    "name": "Life Insurance Corporation",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ICICIPRULI.NS",
+    "name": "ICICI Prudential Life Insurance",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SBILIFE.NS",
+    "name": "SBI Life Insurance",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAXLIFE.NS",
+    "name": "Max Life Insurance",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "STARHEALTH.NS",
+    "name": "Star Health and Allied Insurance",
+    "exchange": "NSE",
+    "sector": "Insurance",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUNPHARMA.NS",
+    "name": "Sun Pharmaceutical Industries",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DRREDDY.NS",
+    "name": "Dr. Reddy's Laboratories",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CIPLA.NS",
+    "name": "Cipla Limited",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DIVISLAB.NS",
+    "name": "Divi's Laboratories",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BIOCON.NS",
+    "name": "Biocon Limited",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LUPIN.NS",
+    "name": "Lupin Limited",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PFIZER.NS",
+    "name": "Pfizer Limited",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GLAND.NS",
+    "name": "Gland Pharma",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NEULANDLAB.NS",
+    "name": "Neuland Laboratories",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NATCOPHARM.NS",
+    "name": "Natco Pharma",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AKUMS.NS",
+    "name": "Akums Drugs & Pharmaceuticals",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LALPATHLAB.NS",
+    "name": "Dr. Lal Pathlabs",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SYNGENE.NS",
+    "name": "Syngene International",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APOLLOHOSP.NS",
+    "name": "Apollo Hospitals Enterprise",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FORTIS.NS",
+    "name": "Fortis Healthcare",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAXHEALTH.NS",
+    "name": "Max Healthcare Institute",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KIMS.NS",
+    "name": "Krishna Institute of Medical Sciences",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MEDANTA.NS",
+    "name": "Medanta Hospital",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TORNTPHARM.NS",
+    "name": "Torrent Pharmaceuticals",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GLENMARK.NS",
+    "name": "Glenmark Pharmaceuticals",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ABBOTINDIA.NS",
+    "name": "Abbott India",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CADILAHC.NS",
+    "name": "Cadila Healthcare",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ALKEM.NS",
+    "name": "Alkem Laboratories",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GRANULES.NS",
+    "name": "Granules India",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APLLTD.NS",
+    "name": "Alembic Pharmaceuticals",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "STRIDES.NS",
+    "name": "Strides Pharma Science",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AUROPHARMA.NS",
+    "name": "Aurobindo Pharma",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "METROPOLIS.NS",
+    "name": "Metropolis Healthcare",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "THYROCARE.NS",
+    "name": "Thyrocare Technologies",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KRSNAA.NS",
+    "name": "Krsnaa Diagnostics",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAINBOW.NS",
+    "name": "Rainbow Children's Medicare",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MEDPLUS.NS",
+    "name": "MedPlus Health Services",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ASTER.NS",
+    "name": "Aster DM Healthcare",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COHANCE.NS",
+    "name": "Cohance Lifesciences",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "POLYMED.NS",
+    "name": "Poly Medicure",
+    "exchange": "NSE",
+    "sector": "Medical Devices",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUVEN.NS",
+    "name": "Suven Life Sciences",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SEQUENT.NS",
+    "name": "Sequent Scientific",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DISHMAN.NS",
+    "name": "Dishman Carbogen Amcis",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SOLARA.NS",
+    "name": "Solara Active Pharma Sciences",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MARKSANS.NS",
+    "name": "Marksans Pharma",
+    "exchange": "NSE",
+    "sector": "Pharma",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ONGC.NS",
+    "name": "Oil and Natural Gas Corporation",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BPCL.NS",
+    "name": "Bharat Petroleum Corporation",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IOC.NS",
+    "name": "Indian Oil Corporation",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GAIL.NS",
+    "name": "GAIL (India) Limited",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDPETRO.NS",
+    "name": "Hindustan Petroleum Corporation",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MGL.NS",
+    "name": "Mahanagar Gas",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IGL.NS",
+    "name": "Indraprastha Gas",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ATGL.NS",
+    "name": "Adani Total Gas",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GUJGASLTD.NS",
+    "name": "Gujarat Gas",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MARUTI.NS",
+    "name": "Maruti Suzuki India",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATAMOTORS.NS",
+    "name": "Tata Motors",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BAJAJ-AUTO.NS",
+    "name": "Bajaj Auto",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HEROMOTOCO.NS",
+    "name": "Hero MotoCorp",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EICHERMOT.NS",
+    "name": "Eicher Motors",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TVSMOTOR.NS",
+    "name": "TVS Motor Company",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ASHOKLEY.NS",
+    "name": "Ashok Leyland",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BALKRISIND.NS",
+    "name": "Balkrishna Industries",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MRF.NS",
+    "name": "MRF Limited",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APOLLOTYRE.NS",
+    "name": "Apollo Tyres",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CEAT.NS",
+    "name": "CEAT Limited",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ENDURANCE.NS",
+    "name": "Endurance Technologies",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ESCORTS.NS",
+    "name": "Escorts Limited",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FORCEMOT.NS",
+    "name": "Force Motors",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAHINDRA.NS",
+    "name": "Mahindra & Mahindra",
+    "exchange": "NSE",
+    "sector": "Automotive",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MOTHERSON.NS",
+    "name": "Motherson Sumi Systems",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BOSCHLTD.NS",
+    "name": "Bosch Limited",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BHARATFORG.NS",
+    "name": "Bharat Forge",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EXIDEIND.NS",
+    "name": "Exide Industries",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UNOMINDA.NS",
+    "name": "UNO Minda",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUNDRMFAST.NS",
+    "name": "Sundram Fasteners",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APLAPOLLO.NS",
+    "name": "APL Apollo Tubes",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ZFCVINDIA.NS",
+    "name": "ZF Commercial Vehicle Control Systems",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TIINDIA.NS",
+    "name": "Tube Investments of India",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ASAHIINDIA.NS",
+    "name": "Asahi India Glass",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "OLAELEC.NS",
+    "name": "Ola Electric Mobility",
+    "exchange": "NSE",
+    "sector": "Electric Vehicles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TVSSCS.NS",
+    "name": "TVS Supply Chain Solutions",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUPRAJIT.NS",
+    "name": "Suprajit Engineering",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GABRIEL.NS",
+    "name": "Gabriel India",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LUMAX.NS",
+    "name": "Lumax Industries",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDUNILVR.NS",
+    "name": "Hindustan Unilever",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ITC.NS",
+    "name": "ITC Limited",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NESTLEIND.NS",
+    "name": "Nestle India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BRITANNIA.NS",
+    "name": "Britannia Industries",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DABUR.NS",
+    "name": "Dabur India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MARICO.NS",
+    "name": "Marico Limited",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GODREJCP.NS",
+    "name": "Godrej Consumer Products",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COLPAL.NS",
+    "name": "Colgate Palmolive India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BATAINDIA.NS",
+    "name": "Bata India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BIKAJI.NS",
+    "name": "Bikaji Foods International",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EMAMILTD.NS",
+    "name": "Emami Limited",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JYOTHYLAB.NS",
+    "name": "Jyothy Labs",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VBL.NS",
+    "name": "Varun Beverages",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATACONSUM.NS",
+    "name": "Tata Consumer Products",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UBL.NS",
+    "name": "United Breweries",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RADICO.NS",
+    "name": "Radico Khaitan",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MCDOWELL-N.NS",
+    "name": "United Spirits",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CCL.NS",
+    "name": "CCL Products",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RELAXO.NS",
+    "name": "Relaxo Footwears",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HONASA.NS",
+    "name": "Honasa Consumer",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "USHAMART.NS",
+    "name": "Usha Martin",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JUBLFOOD.NS",
+    "name": "Jubilant Foodworks",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DEVYANI.NS",
+    "name": "Devyani International",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WESTLIFE.NS",
+    "name": "Westlife Development",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SAPPHIRE.NS",
+    "name": "Sapphire Foods India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LT.NS",
+    "name": "Larsen & Toubro",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GMRAIRPORT.NS",
+    "name": "GMR Airports Infrastructure",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADANIPORTS.NS",
+    "name": "Adani Ports and SEZ",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IRB.NS",
+    "name": "IRB Infrastructure Developers",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SADBHAV.NS",
+    "name": "Sadbhav Engineering",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PNC.NS",
+    "name": "Pritish Nandy Communications",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LTTS.NS",
+    "name": "L&T Technology Services",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KEC.NS",
+    "name": "KEC International",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JSWINFRA.NS",
+    "name": "JSW Infrastructure",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RELINFRA.NS",
+    "name": "Reliance Infrastructure",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BEML.NS",
+    "name": "BEML Limited",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NBCC.NS",
+    "name": "NBCC (India)",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HCC.NS",
+    "name": "Hindustan Construction Company",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JAICORPLTD.NS",
+    "name": "Jai Corp",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WELCORP.NS",
+    "name": "Welspun Corp",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BRIGADE.NS",
+    "name": "Brigade Enterprises",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CONCOR.NS",
+    "name": "Container Corporation of India",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GSHIPYARD.NS",
+    "name": "Goa Shipyard",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GRSE.NS",
+    "name": "Garden Reach Shipbuilders & Engineers",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COCHINSHIP.NS",
+    "name": "Cochin Shipyard",
+    "exchange": "NSE",
+    "sector": "Infrastructure",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DLF.NS",
+    "name": "DLF Limited",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "OBEROIRLTY.NS",
+    "name": "Oberoi Realty",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GODREJPROP.NS",
+    "name": "Godrej Properties",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SOBHA.NS",
+    "name": "Sobha Limited",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PRESTIGE.NS",
+    "name": "Prestige Estates Projects",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUNTECK.NS",
+    "name": "Sunteck Realty",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DBREALTY.NS",
+    "name": "DB Realty",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PHOENIXLTD.NS",
+    "name": "Phoenix Mills",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAHLIFE.NS",
+    "name": "Mahindra Lifespace Developers",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LODHA.NS",
+    "name": "Macrotech Developers (Lodha)",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MINDSPACE.NS",
+    "name": "Mindspace Business Parks REIT",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EMBASSY.NS",
+    "name": "Embassy Office Parks REIT",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BROOKFIELD.NS",
+    "name": "Brookfield India Real Estate Trust",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IBREALEST.NS",
+    "name": "Indiabulls Real Estate",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PURAVANKARA.NS",
+    "name": "Puravankara Limited",
+    "exchange": "NSE",
+    "sector": "Real Estate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATASTEEL.NS",
+    "name": "Tata Steel",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JSWSTEEL.NS",
+    "name": "JSW Steel",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDALCO.NS",
+    "name": "Hindalco Industries",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VEDL.NS",
+    "name": "Vedanta Limited",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NATIONALUM.NS",
+    "name": "National Aluminium Company",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JSL.NS",
+    "name": "Jindal Stainless",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SAIL.NS",
+    "name": "Steel Authority of India",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JINDALSTEL.NS",
+    "name": "Jindal Steel & Power",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WELSPUNIND.NS",
+    "name": "Welspun India",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDZINC.NS",
+    "name": "Hindustan Zinc",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COALINDIA.NS",
+    "name": "Coal India",
+    "exchange": "NSE",
+    "sector": "Mining",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GMDCLTD.NS",
+    "name": "Gujarat Mineral Development Corporation",
+    "exchange": "NSE",
+    "sector": "Mining",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NMDC.NS",
+    "name": "NMDC Limited",
+    "exchange": "NSE",
+    "sector": "Mining",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MOIL.NS",
+    "name": "MOIL Limited",
+    "exchange": "NSE",
+    "sector": "Mining",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RATNAMANI.NS",
+    "name": "Ratnamani Metals & Tubes",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JSPL.NS",
+    "name": "Jindal Steel & Power",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KALYANI.NS",
+    "name": "Kalyani Steels",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MANORG.NS",
+    "name": "Manganese Ore India",
+    "exchange": "NSE",
+    "sector": "Mining",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FIEMIND.NS",
+    "name": "Fiem Industries",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ULTRACEMCO.NS",
+    "name": "UltraTech Cement",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GRASIM.NS",
+    "name": "Grasim Industries",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SHREECEM.NS",
+    "name": "Shree Cement",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AMBUJACEM.NS",
+    "name": "Ambuja Cements",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ACC.NS",
+    "name": "ACC Limited",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INDIACEM.NS",
+    "name": "The India Cements",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAMCOCEM.NS",
+    "name": "The Ramco Cements",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JKCEMENT.NS",
+    "name": "JK Cement",
+    "exchange": "NSE",
+    "sector": "Cement",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NTPC.NS",
+    "name": "NTPC Limited",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "POWERGRID.NS",
+    "name": "Power Grid Corporation",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADANIPOWER.NS",
+    "name": "Adani Power",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATAPOWER.NS",
+    "name": "Tata Power",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RPOWER.NS",
+    "name": "Reliance Power",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "POWERINDIA.NS",
+    "name": "Power India",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NHPC.NS",
+    "name": "NHPC Limited",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SJVN.NS",
+    "name": "SJVN Limited",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "THERMAX.NS",
+    "name": "Thermax Limited",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BHEL.NS",
+    "name": "Bharat Heavy Electricals",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CESC.NS",
+    "name": "CESC Limited",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TORNTPOWER.NS",
+    "name": "Torrent Power",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "JSWENERGY.NS",
+    "name": "JSW Energy",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KEI.NS",
+    "name": "KEI Industries",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADANIGREEN.NS",
+    "name": "Adani Green Energy",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PTCIL.NS",
+    "name": "PTC India",
+    "exchange": "NSE",
+    "sector": "Power Trading",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUZLON.NS",
+    "name": "Suzlon Energy",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IREDA.NS",
+    "name": "Indian Renewable Energy Development Agency",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ORIENTGREEN.NS",
+    "name": "Orient Green Power",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WEBSOL.NS",
+    "name": "Websol Energy System",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RENKUKA.NS",
+    "name": "Renuka Energy",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INOXWIND.NS",
+    "name": "Inox Wind",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GOLDENERGY.NS",
+    "name": "Golden Energy",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WINDMACHIN.NS",
+    "name": "Wind Machine",
+    "exchange": "NSE",
+    "sector": "Renewable Energy",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PVRTL.NS",
+    "name": "PVR Inox",
+    "exchange": "NSE",
+    "sector": "Power",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "name": "Bharti Airtel",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IDEA.NS",
+    "name": "Vodafone Idea",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATACOMM.NS",
+    "name": "Tata Communications",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ITI.NS",
+    "name": "ITI Limited",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAILTEL.NS",
+    "name": "RailTel Corporation of India",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BHARTIHEXA.NS",
+    "name": "Bharti Hexacom",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GTLINFRA.NS",
+    "name": "GTL Infrastructure",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HFCL.NS",
+    "name": "HFCL Limited",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TITAN.NS",
+    "name": "Titan Company",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ASIANPAINT.NS",
+    "name": "Asian Paints",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PIDILITIND.NS",
+    "name": "Pidilite Industries",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KALYANKJIL.NS",
+    "name": "Kalyan Jewellers",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BLUESTARCO.NS",
+    "name": "Blue Star",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HAVELLS.NS",
+    "name": "Havells India",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CROMPTON.NS",
+    "name": "Crompton Greaves Consumer Electricals",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VGUARD.NS",
+    "name": "V-Guard Industries",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VOLTAS.NS",
+    "name": "Voltas Limited",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "WHIRLPOOL.NS",
+    "name": "Whirlpool of India",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAJESHEXPO.NS",
+    "name": "Rajesh Exports",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SYMPHONY.NS",
+    "name": "Symphony Limited",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AMBER.NS",
+    "name": "Amber Enterprises India",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ORIENTELEC.NS",
+    "name": "Orient Electric",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "POLYCAB.NS",
+    "name": "Polycab India",
+    "exchange": "NSE",
+    "sector": "Consumer Durables",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "COROMANDEL.NS",
+    "name": "Coromandel International",
+    "exchange": "NSE",
+    "sector": "Fertilizers",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "UPL.NS",
+    "name": "UPL Limited",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DEEPAKNTR.NS",
+    "name": "Deepak Nitrite",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EIDPARRY.NS",
+    "name": "EID Parry India",
+    "exchange": "NSE",
+    "sector": "Sugar & Fertilizers",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DCMSHRIRAM.NS",
+    "name": "DCM Shriram",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GODREJAGRO.NS",
+    "name": "Godrej Agrovet",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CLEAN.NS",
+    "name": "Clean Science and Technology",
+    "exchange": "NSE",
+    "sector": "Specialty Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NAVINFLUOR.NS",
+    "name": "Navin Fluorine International",
+    "exchange": "NSE",
+    "sector": "Specialty Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PRAJIND.NS",
+    "name": "Praj Industries",
+    "exchange": "NSE",
+    "sector": "Specialty Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BASF.NS",
+    "name": "BASF India",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GNFC.NS",
+    "name": "Gujarat Narmada Valley Fertilizers",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IGIL.NS",
+    "name": "IG Petrochemicals",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RALLIS.NS",
+    "name": "Rallis India",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CHAMBLFERT.NS",
+    "name": "Chambal Fertilisers and Chemicals",
+    "exchange": "NSE",
+    "sector": "Fertilizers",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FACT.NS",
+    "name": "Fertilisers and Chemicals Travancore",
+    "exchange": "NSE",
+    "sector": "Fertilizers",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NOCIL.NS",
+    "name": "NOCIL Limited",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GHCL.NS",
+    "name": "GHCL Limited",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PIIND.NS",
+    "name": "PI Industries",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BALRAMCHIN.NS",
+    "name": "Balrampur Chini Mills",
+    "exchange": "NSE",
+    "sector": "Sugar",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUGARINV.NS",
+    "name": "Sugar Investments",
+    "exchange": "NSE",
+    "sector": "Sugar",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TATACHEM.NS",
+    "name": "Tata Chemicals",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ALKYLAMINE.NS",
+    "name": "Alkyl Amines Chemicals",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FINCABLES.NS",
+    "name": "Finolex Cables",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUPPETRO.NS",
+    "name": "Supreme Petrochem",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CHEMCON.NS",
+    "name": "Chemcon Speciality Chemicals",
+    "exchange": "NSE",
+    "sector": "Chemicals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PAGEIND.NS",
+    "name": "Page Industries",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TRIDENT.NS",
+    "name": "Trident Limited",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RAYMOND.NS",
+    "name": "Raymond Limited",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SIYARAM.NS",
+    "name": "Siyaram Silk Mills",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VARDHACRLC.NS",
+    "name": "Vardhman Textiles",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CAMPUS.NS",
+    "name": "Campus Activewear",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AIAENG.NS",
+    "name": "AIA Engineering",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SHANKARA.NS",
+    "name": "Shankara Building Products",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RTNPOWER.NS",
+    "name": "RattanIndia Power",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GUJALKALI.NS",
+    "name": "Gujarat Alkalies and Chemicals",
+    "exchange": "NSE",
+    "sector": "Textiles",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CHALET.NS",
+    "name": "Chalet Hotels",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INDHOTEL.NS",
+    "name": "The Indian Hotels Company",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "EIHOTEL.NS",
+    "name": "EIH Limited",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LEMONTREE.NS",
+    "name": "Lemon Tree Hotels",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAHINDRACR.NS",
+    "name": "Mahindra Holidays",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ORIENTHOT.NS",
+    "name": "Oriental Hotels",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TAKESOLN.NS",
+    "name": "Take Solutions",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MTARTECH.NS",
+    "name": "Mtar Technologies",
+    "exchange": "NSE",
+    "sector": "Hotels",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DMART.NS",
+    "name": "Avenue Supermarts (DMart)",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TRENT.NS",
+    "name": "Trent Limited",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VMM.NS",
+    "name": "V-Mart Retail",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "FRETAIL.NS",
+    "name": "Future Retail",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SPENCERS.NS",
+    "name": "Spencer's Retail",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADITYADB.NS",
+    "name": "Aditya Birla Fashion and Retail",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SHOPRITE.NS",
+    "name": "Shoppers Stop",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NYKAA.NS",
+    "name": "FSN E-Commerce Ventures (Nykaa)",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INDIGO.NS",
+    "name": "InterGlobe Aviation",
+    "exchange": "NSE",
+    "sector": "Airlines",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SPICEJET.NS",
+    "name": "SpiceJet Limited",
+    "exchange": "NSE",
+    "sector": "Airlines",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TCI.NS",
+    "name": "Transport Corporation of India",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GATI.NS",
+    "name": "Gati Limited",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AEGISLOG.NS",
+    "name": "Aegis Logistics",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BLUEDART.NS",
+    "name": "Blue Dart Express",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VTL.NS",
+    "name": "Vardhman Textiles",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAHLOG.NS",
+    "name": "Mahindra Logistics",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HAL.NS",
+    "name": "Hindustan Aeronautics",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BEL.NS",
+    "name": "Bharat Electronics",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MIDHANI.NS",
+    "name": "Mishra Dhatu Nigam",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ORDNANCEFB.NS",
+    "name": "Ordnance Factory Board",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BHARAT.NS",
+    "name": "Bharat Dynamics",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ENGINERSIN.NS",
+    "name": "Engineers India",
+    "exchange": "NSE",
+    "sector": "Engineering Services",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MAZAGON.NS",
+    "name": "Mazagon Dock Shipbuilders",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CENTUM.NS",
+    "name": "Centum Electronics",
+    "exchange": "NSE",
+    "sector": "Defense",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ZEEL.NS",
+    "name": "Zee Entertainment Enterprises",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SUNTV.NS",
+    "name": "Sun TV Network",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NETWORK18.NS",
+    "name": "Network18 Media & Investments",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PVR.NS",
+    "name": "PVR Limited",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "INOXLEISUR.NS",
+    "name": "INOX Leisure",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TIPS.NS",
+    "name": "Tips Industries",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TV18BRDCST.NS",
+    "name": "TV18 Broadcast",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DISHTV.NS",
+    "name": "Dish TV India",
+    "exchange": "NSE",
+    "sector": "Media",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "LTFOODS.NS",
+    "name": "LT Foods",
+    "exchange": "NSE",
+    "sector": "Food Processing",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KRBL.NS",
+    "name": "KRBL Limited",
+    "exchange": "NSE",
+    "sector": "Food Processing",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RUCHI.NS",
+    "name": "Ruchi Soya Industries",
+    "exchange": "NSE",
+    "sector": "Food Processing",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "AVANTI.NS",
+    "name": "Avanti Feeds",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NILKAMAL.NS",
+    "name": "Nilkamal Limited",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "VSTIND.NS",
+    "name": "VST Industries",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GARFIBRES.NS",
+    "name": "Garware Technical Fibres",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "KAVERI.NS",
+    "name": "Kaveri Seed Company",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADVAIT.NS",
+    "name": "Advait Infratech",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "MANGALAM.NS",
+    "name": "Mangalam Seeds",
+    "exchange": "NSE",
+    "sector": "Agriculture",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "IPAPPM.NS",
+    "name": "ITC Paperboards & Specialty Papers",
+    "exchange": "NSE",
+    "sector": "Paper",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SESAGOA.NS",
+    "name": "Seshasayee Paper and Boards",
+    "exchange": "NSE",
+    "sector": "Paper",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "TNPL.NS",
+    "name": "Tamil Nadu Newsprint and Papers",
+    "exchange": "NSE",
+    "sector": "Paper",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "RUCHISOYA.NS",
+    "name": "Ruchi Soya Industries",
+    "exchange": "NSE",
+    "sector": "Paper",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BALKRISHNA.NS",
+    "name": "Balkrishna Paper Mills",
+    "exchange": "NSE",
+    "sector": "Paper",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NAVA.NS",
+    "name": "Nava Bharat Ventures",
+    "exchange": "NSE",
+    "sector": "Diversified",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDWARE.NS",
+    "name": "Hindware Home Innovation",
+    "exchange": "NSE",
+    "sector": "Glass",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CERA.NS",
+    "name": "Cera Sanitaryware",
+    "exchange": "NSE",
+    "sector": "Glass",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HSIL.NS",
+    "name": "HSIL Limited",
+    "exchange": "NSE",
+    "sector": "Glass",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GROMART.NS",
+    "name": "Gromart Industries",
+    "exchange": "NSE",
+    "sector": "Glass",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CERAMIC.NS",
+    "name": "Ceramic Industries",
+    "exchange": "NSE",
+    "sector": "Glass",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BAJAJHLDNG.NS",
+    "name": "Bajaj Holdings & Investment",
+    "exchange": "NSE",
+    "sector": "Investment",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ADANIENT.NS",
+    "name": "Adani Enterprises",
+    "exchange": "NSE",
+    "sector": "Conglomerate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GODREJIND.NS",
+    "name": "Godrej Industries",
+    "exchange": "NSE",
+    "sector": "Conglomerate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SIEMENS.NS",
+    "name": "Siemens Limited",
+    "exchange": "NSE",
+    "sector": "Conglomerate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ABB.NS",
+    "name": "ABB India",
+    "exchange": "NSE",
+    "sector": "Conglomerate",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "CAREER.NS",
+    "name": "Career Point",
+    "exchange": "NSE",
+    "sector": "Education",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "APTECH.NS",
+    "name": "Aptech Limited",
+    "exchange": "NSE",
+    "sector": "Education",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NIITLTD.NS",
+    "name": "NIIT Limited",
+    "exchange": "NSE",
+    "sector": "Education",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "ETERNAL.NS",
+    "name": "Eternal Energy",
+    "exchange": "NSE",
+    "sector": "Diversified",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "STERLITE.NS",
+    "name": "Sterlite Technologies",
+    "exchange": "NSE",
+    "sector": "Telecom",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GSPL.NS",
+    "name": "Gujarat State Petronet",
+    "exchange": "NSE",
+    "sector": "Oil & Gas",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HINDCOPPER.NS",
+    "name": "Hindustan Copper",
+    "exchange": "NSE",
+    "sector": "Metals",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "NSLNISP.NS",
+    "name": "NISP",
+    "exchange": "NSE",
+    "sector": "Others",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "PGHH.NS",
+    "name": "Procter & Gamble Health",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "GILLETTE.NS",
+    "name": "Gillette India",
+    "exchange": "NSE",
+    "sector": "FMCG",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "HONAUT.NS",
+    "name": "Honeywell Automation India",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "3MINDIA.NS",
+    "name": "3M India",
+    "exchange": "NSE",
+    "sector": "Diversified",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SCHAEFFLER.NS",
+    "name": "Schaeffler India",
+    "exchange": "NSE",
+    "sector": "Auto Components",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "DELHIVERY.NS",
+    "name": "Delhivery Limited",
+    "exchange": "NSE",
+    "sector": "Logistics",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "SWIGGY.NS",
+    "name": "Bundl Technologies (Swiggy)",
+    "exchange": "NSE",
+    "sector": "Technology",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  },
+  {
+    "symbol": "BLINKIT.NS",
+    "name": "Blinkit (Grofers)",
+    "exchange": "NSE",
+    "sector": "Retail",
+    "nifty50": false,
+    "nifty200": false,
+    "nifty500": true
+  }
+]
